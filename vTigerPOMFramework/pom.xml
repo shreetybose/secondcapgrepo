@@ -63,8 +63,21 @@
       </build>
       
       </project>
-      
+
+
+
+
+#transitive dependencies
+
+<Dependency mangement>
   
+  <exclusion>
+    <groupId>ccom.vtiger</groupId>
+  <artifactId>vTigerPOMFramework</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+    </Exclusion>
+      
+  </Dependency mangement>
   
   
   
