@@ -1,0 +1,8 @@
+com\vtiger\pages\HeaderPage.class
+com\vtiger\pages\CreateLeadPage.class
+com\vtiger\pages\HomePage.class
+com\vtiger\tests\BaseTest.class
+com\vtiger\pages\LoginPage.class
+com\vtiger\tests\LeadE2E.class
+com\vtiger\common\GenericMethods.class
+com\vtiger\tests\LoginTests.class
